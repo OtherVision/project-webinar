@@ -2,7 +2,7 @@
 
 layout usado no projeto:
 
-<p align=center>
+<p align=center width=50% heigth=50%>
     <img src="./image/layout-personal-page.jpg" alt="Imagem Layout">
 </p>
 
@@ -25,6 +25,6 @@ Projeto desenvolvido durante o Webinar da imagine School sobre desenvolvimento w
 
 ##<strong>Informações </strong> :speaker:
 
-Site desenvolvido em HTML, CSS;
-Layout do projeto importado do figma;
+Site desenvolvido em HTML, CSS; <br>
+Layout do projeto importado do figma; <br>
 Desenvolvido no Visual Studio Code;
