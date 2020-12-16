@@ -1,11 +1,5 @@
 # Webinar Personal Page
 
-layout usado no projeto:
-
-<p align=center width=50% heigth=50%>
-    <img src="./image/layout-personal-page.jpg" alt="Imagem Layout">
-</p>
-
 > Status do projeto: Concluído :white_check_mark:
 
 ##<strong>Descrição do projeto</strong> :page_facing_up:
@@ -25,6 +19,14 @@ Projeto desenvolvido durante o Webinar da imagine School sobre desenvolvimento w
 
 ##<strong>Informações </strong> :speaker:
 
-Site desenvolvido em HTML, CSS; <br>
-Layout do projeto importado do figma; <br>
-Desenvolvido no Visual Studio Code;
+:point_right: Site desenvolvido em HTML, CSS;
+<br>
+:point_right: Layout do projeto importado do figma;
+<br>
+:point_right: Desenvolvido no Visual Studio Code;
+
+##<strong>layout usado no projeto:</strong> :art:
+
+<p align=center>
+    <img src="./image/layout-personal-page.jpg" alt="Imagem Layout">
+</p>
