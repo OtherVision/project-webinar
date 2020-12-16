@@ -6,7 +6,7 @@ layout usado no projeto:
     <img src="./image/layout-personal-page.jpg" alt="Imagem Layout">
 </p>
 
-> Status do projeto: Concluído &#9989
+> Status do projeto: Concluído :white_check_mark:
 
 ##<strong>Descrição do projeto</strong> :page_facing_up:
 
